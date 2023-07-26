@@ -1,0 +1,32 @@
+{
+  "name": "window",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "> 1%",
+    "not dead"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^9.1.2",
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "webpack": "^5.83.1",
+    "webpack-stream": "^7.0.0"
+  },
+  "dependencies": {
+    "core-js": "^3.30.2",
+    "jquery": "^3.7.0",
+    "polyfills": "^2.1.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
